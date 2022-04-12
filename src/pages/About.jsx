@@ -38,6 +38,7 @@ const About = () => {
   return (
     <div className={classes.wrapper}>
       <Header />
+      <Text>Hi</Text>
     </div>
   );
 };
